@@ -1,0 +1,15 @@
+{
+  "name": "03-modulo",
+  "version": "0.0.1",
+  "description": "Creacion de un archivo de multiplicacion al cual se le pasa la base y este lo multiplica del 1 al 9",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "criscahu",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
